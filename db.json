@@ -1,0 +1,62 @@
+{
+  "Profesores": [
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Quimica"
+          },
+          {
+            "nombre": "Biologia"
+          },
+          {
+            "nombre": "JAVAJS desde de cero"
+          }
+        ]
+      },
+      "id": "98a4"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "5345"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Stroni",
+      "promedio": 10,
+      "id": "0d11"
+    },
+    {
+      "id": "5a14",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cusrso": [
+    {
+      "nombre": "NodeJS desde de cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "7345"
+    },
+    {
+      "nombre": "ReactJS desde de cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "1fa2"
+    },
+    {
+      "nombre": "Angular desde de cero",
+      "duracion": 7,
+      "dificultad": "alta",
+      "id": "c6c3"
+    }
+  ]
+}
